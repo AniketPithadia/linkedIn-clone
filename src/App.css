@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.photoIconSvg svg {
+  color: #378fe9;
+}
+.videoIconSvg {
+  color: #5f9b41;
+}
+.eventIconSvg {
+  color: #c37d16;
+}
+.articleIconSvg {
+  color: #e16745;
+}
